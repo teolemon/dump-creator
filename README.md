@@ -14,5 +14,5 @@ foodName|brands|categories|calories_100g|fat_100g|carbs_100g|protein_100g|bevera
 **Example:**<br/>
 Coca Cola|Coca Cola||18|85.2|4.0|0.4|true|{"1 Bottle":500}**
 
-This little Java programm will create this subset by parsing the complete CSV file provided by openfoodfacts.org, 
+This little Java program will create this subset by parsing the complete CSV file provided by openfoodfacts.org, 
 which contains nutritional information from all over the world. The filtered result will be saved as CSV file as well which can be imported in CC.
